@@ -46,3 +46,7 @@ Aplikasi ini terdiri dari beberapa komponen utama:
 - Pastikan untuk menyesuaikan kode dengan kebutuhan aplikasi Anda, terutama dalam hal keamanan dan penanganan kesalahan.
 - Implementasikan logika CRUD pada presenter dan kaitkan dengan tampilan sesuai kebutuhan aplikasi Anda.
 
+## Janji
+
+Saya Muhammad Hanif Abdillah NIM 2210239 mengerjakan Latihan Praktikum 11 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
